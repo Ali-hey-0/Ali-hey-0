@@ -201,7 +201,8 @@
       </td>
       <td width="30%" align="center">
         <p>Last Updated: 2025-03-10 21:04:05 UTC</p>
-        <p><i>Profile Views: <img src="https://profile-counter.glitch.me/Ali-hey-0/count.svg" /></i></p>
+       <p> Thanks for visiting :heart: <p><i>Profile Views:</p>
+         <img src="https://profile-counter.glitch.me/Ali-hey-0/count.svg" /></i></p>
       </td>
     </tr>
   </table>
@@ -218,7 +219,6 @@
   <!-- Gradient Footer -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,27,32&height=120&section=footer&text=Open%20for%20Collaboration%20and%20Innovation&fontSize=24&fontColor=FFFFFF&animation=twinkling&fontAlignY=80" />
 
-  <sub>Last Updated: 2025-03-10 21:22:47 UTC | Profile Views: <img src="https://profile-counter.glitch.me/Ali-hey-0/count.svg" /></sub>
 </div>
 
 
