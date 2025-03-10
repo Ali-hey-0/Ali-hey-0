@@ -75,16 +75,16 @@
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Ali-hey-0000000&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&icon_color=36BCF7FF&title_color=36BCF7FF&text_color=FFFFFF&count_private=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Ali-hey-0&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&icon_color=36BCF7FF&title_color=36BCF7FF&text_color=FFFFFF&count_private=true" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-hey-0000000&theme=tokyonight&hide_border=true&background=00000000&stroke=36BCF7FF&ring=36BCF7FF&fire=FF6B6B&currStreakNum=FFFFFF" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-hey-0&theme=tokyonight&hide_border=true&background=00000000&stroke=36BCF7FF&ring=36BCF7FF&fire=FF6B6B&currStreakNum=FFFFFF" />
       </td>
     </tr>
   </table>
 
   <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-hey-0000000&theme=react-dark&bg_color=00000000&hide_border=true&line=36BCF7FF&point=36BCF7FF&color=36BCF7FF&area=true&area_color=36BCF7FF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-hey-0&theme=react-dark&bg_color=00000000&hide_border=true&line=36BCF7FF&point=36BCF7FF&color=36BCF7FF&area=true&area_color=36BCF7FF" />
 ### 🚀 Specialized Technologies
 <div align="center">
 
@@ -209,15 +209,15 @@
 </div>
 
   <!-- Contribution Snake -->
-  <img src="https://raw.githubusercontent.com/Ali-hey-0000000/Ali-hey-0000000/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Ali-hey0/Ali-hey-0/output/github-snake-dark.svg" />
 
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Ali-hey-0000000&theme=onestar&no-frame=true&column=7&margin-w=15&no-bg=true&title_color=36BCF7FF" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ali-hey-0&theme=onestar&no-frame=true&column=7&margin-w=15&no-bg=true&title_color=36BCF7FF" />
 
   <!-- Gradient Footer -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,27,32&height=120&section=footer&text=Open%20for%20Collaboration%20and%20Innovation&fontSize=24&fontColor=FFFFFF&animation=twinkling&fontAlignY=80" />
 
-  <sub>Last Updated: 2025-03-10 21:22:47 UTC | Profile Views: <img src="https://profile-counter.glitch.me/Ali-hey-0000000/count.svg" /></sub>
+  <sub>Last Updated: 2025-03-10 21:22:47 UTC | Profile Views: <img src="https://profile-counter.glitch.me/Ali-hey-0/count.svg" /></sub>
 </div>
 
 
