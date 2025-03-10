@@ -7,20 +7,23 @@
 </h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ali-hey-0000000&label=Profile%20Views&color=orange&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Ali-hey-0000000?label=Followers&style=flat&color=blue" />
-  <img src="https://img.shields.io/github/stars/Ali-hey-0000000?label=Stars&style=flat&color=yellow" />
+  <!-- Dynamic Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=Ali-hey-0&label=Profile%20Views&color=orange&style=flat" alt="profile views" />
+  <!-- Dynamic Followers Count -->
+  <img src="https://img.shields.io/github/followers/Ali-hey-0?label=Followers&style=social" alt="followers" />
+  <!-- Dynamic Stars Count -->
+  <img src="https://img.shields.io/github/stars/Ali-hey-0?label=Stars&style=social" alt="stars" />
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;AI+and+Machine+Learning+Enthusiast;Cybersecurity+Researcher;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;AI+and+Machine+Learning+Enthusiast;Cybersecurity+Researcher;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hi there! I am **Ali Heydari**, a dedicated and ambitious developer based in Zanjan, Iran. With a strong foundation in Computer Science and Cybersecurity, I specialize in developing innovative solutions that combine AI, security, and efficient backend architectures.
+Hi there! I am **Ali Heydari**, a dedicated and ambitious developer based in Zanjan, Iran. With a strong foundation in Computer Science and Cybersecurity, I specialize in developing innovative solutions.
 
 ### 🌟 Quick Facts:
 - 🎂 **Born:** March 3, 2003
@@ -34,17 +37,21 @@ Hi there! I am **Ali Heydari**, a dedicated and ambitious developer based in Zan
 
 ## 📊 GitHub Analytics
 
+<!-- Dynamic GitHub Stats Card -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ali-hey-0000000&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-hey-0000000&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ali-hey-0&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <!-- Dynamic Most Used Languages Card -->
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ali-hey-0&layout=compact&langs_count=8&theme=radical" />
 </p>
 
+<!-- Dynamic Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-hey-0000000&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-hey-0&theme=radical" alt="GitHub Streak" />
 </p>
 
+<!-- Dynamic Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ali-hey-0000000&theme=radical&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ali-hey-0&theme=radical&row=1&column=6" />
 </div>
 
 ---
@@ -140,18 +147,21 @@ Hi there! I am **Ali Heydari**, a dedicated and ambitious developer based in Zan
 
 ---
 
+<!-- Dynamic Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-hey-0000000&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-hey-0&theme=react-dark" />
 </div>
 
 <div align="center">
-  <h3>🎯 Profile Last Updated: 2025-03-10 17:09:01 UTC</h3>
+  <!-- Dynamic Last Updated Timestamp -->
+  <h3>🎯 Profile Last Updated: <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=UTC&query=%24.timestamp&url=https://api.github.com/repos/Ali-hey-0/Ali-hey-0/commits?per_page=1" alt="Last Updated"/></h3>
   <p>Building the future, one commit at a time! 🚀</p>
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
+
 ## 🚀 Open for Work
 
 I am currently looking for **freelance projects** and **collaborations** in **backend development, full-stack development, AI, and data science**.  
@@ -160,4 +170,4 @@ I am currently looking for **freelance projects** and **collaborations** in **ba
 
 ---
 
-🔥 **Let's build something amazing together!**  
+🔥 **Let's build something amazing together!**
