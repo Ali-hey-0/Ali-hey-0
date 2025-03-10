@@ -1,4 +1,160 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ali%20Heydari&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=white&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Cybersecurity%20Expert&descAlignY=60&descSize=20" />
+</div>
+
+<p align="center">
+  <a href="https://github.com/Ali-hey-0?tab=followers">
+    <img src="https://img.shields.io/github/followers/Ali-hey-0?style=for-the-badge&logo=github&color=blue" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/Ali-hey-0?tab=stars">
+    <img src="https://img.shields.io/github/stars/Ali-hey-0?style=for-the-badge&logo=github&color=yellow" alt="GitHub stars" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Ali-hey-0&style=for-the-badge&color=orange" alt="Profile Views" />
+</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+and+Machine+Learning+Enthusiast+%F0%9F%A4%96;Cybersecurity+Researcher+%F0%9F%94%92;Always+Learning+New+Things+%F0%9F%93%9A" />
+</div>
+
+---
+
+<div align="center">
+  <h2>🎯 Quick Overview</h2>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ali-hey-0&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-hey-0&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-hey-0&layout=compact&theme=radical&hide_border=true&langs_count=10" />
+  <img width="60%" src="https://github-profile-trophy.vercel.app/?username=Ali-hey-0&theme=radical&row=1&column=4&no-frame=true" />
+</div>
+
+## 👨‍💻 About Me
+
+```yaml
+name: Ali Heydari
+located_in: Zanjan, Iran
+education: Computer Science & Cybersecurity @ IAU University
+fields_of_interests:
+  [
+    "Full Stack Development",
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Cybersecurity",
+    "Cloud Architecture"
+  ]
+technical_background:
+  [
+    "Full Stack Developer",
+    "AI Researcher",
+    "Security Engineer",
+    "Open Source Contributor"
+  ]
+currently_learning: ["Advanced AI Security", "Cloud Native Development"]
+2025_goals: ["Contribute to Major Open Source Projects", "Launch AI Security Platform"]
+hobbies: ["Programming", "Research", "Gaming", "Problem Solving"]
+```
+
+## 🛠️ Technology Arsenal
+
+<details open>
+<summary>Programming Languages</summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary>Frameworks & Libraries</summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary>Databases & Tools</summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+</details>
+
+## 🌟 Featured Projects
+
+<div align="center">
+<a href="https://github.com/Ali-hey-0/BarcodeScannerAPI">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ali-hey-0&repo=BarcodeScannerAPI&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/Ali-hey-0/deep-learning-with-pytorch">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ali-hey-0&repo=deep-learning-with-pytorch&theme=radical&hide_border=true" />
+</a>
+</div>
+
+<div align="center">
+<a href="https://github.com/Ali-hey-0/DataScienceWithExamples">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ali-hey-0&repo=DataScienceWithExamples&theme=radical&hide_border=true" />
+</a>
+</div>
+
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-hey-0&theme=react-dark&area=true&hide_border=true" width="100%">
+</p>
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:aliheydari1381doc@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/ali-heydari">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/@AliHeydari48">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://hackerone.com/aila1831?type=user">
+    <img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white"/>
+  </a>
+  <a href="https://dev.to/alihey0">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+  </a>
+  <a href="https://t.me/ALI_HEYda">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+</p>
+
+<div align="center">
+  <h3>🕒 Profile Last Updated: 2025-03-10 20:52:12 UTC</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
+
+---
+
+<div align="center">
+  <h2>🚀 Open for Opportunities</h2>
+  <p>Looking for exciting collaborations in <b>Full Stack Development</b>, <b>AI</b>, and <b>Cybersecurity</b></p>
+  <p>💌 Reach out at <a href="mailto:aliheydari1381doc@gmail.com">aliheydari1381doc@gmail.com</a></p>
+  <br>
+  <p>🔥 <i>Let's build something extraordinary together!</i> 🔥</p>
+</div>
+
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ali%20Heydari&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" />
 </div>
 
