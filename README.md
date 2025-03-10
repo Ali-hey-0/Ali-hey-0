@@ -1,11 +1,11 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ali%20Heydari&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=white&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Security%20Engineer" />
-</div>
+  <!-- Dynamic Animated Header -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,27,32,35&height=300&section=header&text=Ali%20Heydari&desc=Senior%20Software%20Engineer%20|%20AI%20Expert%20|%20Security%20Specialist&fontSize=90&animation=fadeIn&fontColor=FFFFFF&descSize=20&fontAlignY=35&descAlignY=55" />
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=true&width=1000&lines=Welcome+to+my+Professional+Portfolio+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;AI+and+Machine+Learning+Enthusiast+%F0%9F%A4%96;Cybersecurity+Researcher+%F0%9F%94%92;Open+Source+Contributor+%F0%9F%8C%9F" />
-</div>
-
+  <!-- Dynamic Typing Effect -->
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+my+Digital+Universe+🌌;Full+Stack+Development+%2B+AI+%2B+Security+🛡️;Innovation+Through+Code+and+Design+✨;Let's+Create+Something+Amazing+Together+🚀" alt="Typing SVG" />
+  
+  <!-- Profile Views & GitHub Stats -->
 <p align="center">
   <a href="https://github.com/Ali-hey-0?tab=followers">
     <img src="https://img.shields.io/github/followers/Ali-hey-0?style=for-the-badge&logo=github&color=blue&labelColor=1f1f1f" alt="GitHub followers" />
@@ -16,44 +16,75 @@
   <img src="https://komarev.com/ghpvc/?username=Ali-hey-0&style=for-the-badge&color=orange&labelColor=1f1f1f" alt="Profile Views" />
 </p>
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
+  <!-- Interactive Tech Stack Showcase -->
+  <h2>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28" />
+    Technology Arsenal
+  </h2>
 
-## Technical Arsenal 🛠️
+  <!-- Animated Skill Cards -->
+  <details open>
+    <summary><b>💻 Languages & Frameworks</b></summary>
+    <br>
+    <div align="center">
+      <table>
+        <tr>
+          <td align="center">
+            <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java" /><br>
+            <sub><b>Core Languages</b></sub>
+          </td>
+          <td align="center">
+            <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular" /><br>
+            <sub><b>Frontend</b></sub>
+          </td>
+          <td align="center">
+            <img src="https://skillicons.dev/icons?i=nodejs,django,flask,spring" /><br>
+            <sub><b>Backend</b></sub>
+          </td>
+        </tr>
+      </table>
+    </div>
+  </details>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+  <details open>
+    <summary><b>🛠️ Tools & Infrastructure</b></summary>
+    <br>
+    <div align="center">
+      <table>
+        <tr>
+          <td align="center">
+            <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure" /><br>
+            <sub><b>DevOps & Cloud</b></sub>
+          </td>
+          <td align="center">
+            <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,mysql" /><br>
+            <sub><b>Databases</b></sub>
+          </td>
+          <td align="center">
+            <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux" /><br>
+            <sub><b>Development Tools</b></sub>
+          </td>
+        </tr>
+      </table>
+    </div>
+  </details>
 
-### 💻 Programming Languages
-<div align="center">
+  <!-- GitHub Stats with Animation -->
+  <h2>📊 GitHub Analytics</h2>
+  
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Ali-hey-0000000&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&icon_color=36BCF7FF&title_color=36BCF7FF&text_color=FFFFFF&count_private=true" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-hey-0000000&theme=tokyonight&hide_border=true&background=00000000&stroke=36BCF7FF&ring=36BCF7FF&fire=FF6B6B&currStreakNum=FFFFFF" />
+      </td>
+    </tr>
+  </table>
 
-| Level | Languages |
-|:-----:|:----------|
-| ![Expert](https://img.shields.io/badge/Expert-★★★-gold?style=flat-square) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
-| ![Proficient](https://img.shields.io/badge/Proficient-★★☆-silver?style=flat-square) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| ![Learning](https://img.shields.io/badge/Learning-★☆☆-bronze?style=flat-square) | ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) |
-
-</div>
-</td>
-<td width="50%" valign="top">
-
-### 🔧 Technology Stack
-<div align="center">
-
-| Category | Technologies |
-|:-----:|:----------|
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
-
-</div>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-hey-0000000&theme=react-dark&bg_color=00000000&hide_border=true&line=36BCF7FF&point=36BCF7FF&color=36BCF7FF&area=true&area_color=36BCF7FF" />
 ### 🚀 Specialized Technologies
 <div align="center">
 
