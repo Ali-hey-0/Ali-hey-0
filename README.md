@@ -125,33 +125,7 @@
 </tr>
 </table>
 
-## 💻 Technical Expertise
 
-<table width="100%">
-<tr>
-<td width="33%" align="center">
-
-### Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,java,cpp&perline=3" />
-</p>
-</td>
-<td width="33%" align="center">
-
-### Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,django,express&perline=3" />
-</p>
-</td>
-<td width="33%" align="center">
-
-### Tools & Platform
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,git,github&perline=3" />
-</p>
-</td>
-</tr>
-</table>
 
 ## 🌟 Featured Projects
 
