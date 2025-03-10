@@ -208,6 +208,16 @@
   <p>🔥 <i>Let's build something extraordinary together!</i> 🔥</p>
 </div>
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <!-- Contribution Snake -->
+  <img src="https://raw.githubusercontent.com/Ali-hey-0000000/Ali-hey-0000000/output/github-snake-dark.svg" />
+
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Ali-hey-0000000&theme=onestar&no-frame=true&column=7&margin-w=15&no-bg=true&title_color=36BCF7FF" />
+
+  <!-- Gradient Footer -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,27,32&height=120&section=footer&text=Open%20for%20Collaboration%20and%20Innovation&fontSize=24&fontColor=FFFFFF&animation=twinkling&fontAlignY=80" />
+
+  <sub>Last Updated: 2025-03-10 21:22:47 UTC | Profile Views: <img src="https://profile-counter.glitch.me/Ali-hey-0000000/count.svg" /></sub>
 </div>
+
+
