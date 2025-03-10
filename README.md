@@ -105,6 +105,7 @@
 </div>
 
 ## 🌟 Key Achievements
+-"𝗜𝗡𝗧𝗝" Computer engineering student 
 - 🏆 Developed innovative AI security solutions
 - 🚀 Led multiple successful full-stack projects
 - 💡 Contributing to cutting-edge open source initiatives
