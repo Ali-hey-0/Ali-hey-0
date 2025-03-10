@@ -8,14 +8,15 @@
   <!-- Profile Views & GitHub Stats -->
 <p align="center">
   <a href="https://github.com/Ali-hey-0?tab=followers">
-    <img src="https://img.shields.io/github/followers/Ali-hey-0?style=for-the-badge&logo=github&color=blue&labelColor=1f1f1f" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/Ali-hey-0?style=for-the-badge&logo=github&color=blue&labelColor=1f1f1f&label=Followers" alt="GitHub followers" />
   </a>
   <a href="https://github.com/Ali-hey-0?tab=stars">
-    <img src="https://img.shields.io/github/stars/Ali-hey-0?style=for-the-badge&logo=github&color=yellow&labelColor=1f1f1f" alt="GitHub stars" />
+    <img src="https://img.shields.io/github/stars/Ali-hey-0?style=for-the-badge&logo=github&color=yellow&labelColor=1f1f1f&label=Total%20Stars" alt="GitHub stars" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Ali-hey-0&style=for-the-badge&color=orange&labelColor=1f1f1f" alt="Profile Views" />
+  <span class="profile-views">
+    <img src="https://komarev.com/ghpvc/?username=Ali-hey-0&style=for-the-badge&color=orange&labelColor=1f1f1f&label=Profile%20Views" alt="Profile Views" />
+  </span>
 </p>
-
   <!-- Interactive Tech Stack Showcase -->
   <h2>
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28" />
