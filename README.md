@@ -1,76 +1,85 @@
-<h1 align="center">Hi, I'm Ali Heydari 👋</h1>
-<h3 align="center">A passionate developer with expertise in Backend, Cybersecurity & AI</h3>
+<h1 align="center">Ali Heydari</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AliHeydari&label=Profile%20views&color=0e75b6&style=flat" alt="AliHeydari" />
+  ⭐⭐⭐⭐⭐  
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AliHeydari&label=Profile%20Viewers&color=orange&style=flat" alt="profile views" />
 </p>
 
 ---
 
-## 🛠 Skills and Tools
+### 👋 Hello! Welcome to my profile.
 
-### 🔹 Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-### 🔹 Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🔹 Frameworks & Libraries  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-### 🔹 Agile Methodologies  
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![TDD](https://img.shields.io/badge/TDD-FF6F00?style=for-the-badge&logo=testinglibrary&logoColor=white)
-
-### 🔹 Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)
-
-### 🔹 Operating Systems  
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+#### My mail is  
+✉️ ali.heydari@example.com  
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliHeydari&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+## 📱 Social and Contact Info.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-heydari/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali.heydari@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AliHeydari)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/AliHeydari)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/AliHeydari)
+[![Resume](https://img.shields.io/badge/Resume-red?style=for-the-badge)](https://your-resume-link.com)
 
 ---
 
-## 🔗 Connect with Me  
-<p align="center">
-  <a href="https://linkedin.com/in/AliHeydari" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/AliHeydari" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+## 🎓 Education
+
+[![Maseno University](https://img.shields.io/badge/Maseno%20University-green?style=for-the-badge)](https://your-university-link.com)
+[![Moringa School](https://img.shields.io/badge/Moringa%20School-blue?style=for-the-badge)](https://your-bootcamp-link.com)
+[![Coursera](https://img.shields.io/badge/Coursera-%23007ACC.svg?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/)
+[![Udacity](https://img.shields.io/badge/Udacity-%232F80ED.svg?style=for-the-badge&logo=udacity&logoColor=white)](https://www.udacity.com/)
+[![FreeCodeCamp](https://img.shields.io/badge/Free%20Code%20Camp-%23029D8F.svg?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
+[![Codewars](https://img.shields.io/badge/Codewars-red?style=for-the-badge)](https://www.codewars.com/)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/)
+
+---
+
+## 🛠️ Skills and Tools
+
+### **Languages**  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+### **Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### **Frameworks & Libraries**  
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### **Tools**  
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🚀 Open for Work
+
+I am currently looking for **freelance projects** and **collaborations** in **backend development, full-stack development, AI, and data science**.  
+
+📩 Feel free to reach out via **[Email](mailto:ali.heydari@example.com)** or **[LinkedIn](https://www.linkedin.com/in/ali-heydari/)**.  
+
+---
+
+🔥 **Let's build something amazing together!**  
