@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Dynamic Animated Header -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E3A8A,9333EA&height=300&section=header&text=Ali%20Heydari&desc=Senior%20Software%20Engineer%20|%20AI%20Pioneer%20|%20Cybersecurity%20Guardian&fontSize=90&animation=fadeIn&fontColor=FFFFFF&descSize=20&fontAlignY=35&descAlignY=55" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E3A8A,9333EA&height=300&section=header&text=Ali%20Heydari&desc=Interested%20Software%20Engineer%20|%20AI%20Pioneer%20|%20Cybersecurity%20Guardian&fontSize=90&animation=fadeIn&fontColor=FFFFFF&descSize=20&fontAlignY=35&descAlignY=55" />
 
   <!-- Professional Introduction -->
   <h2>👋 About Me</h2>
