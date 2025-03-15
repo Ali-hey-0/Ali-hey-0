@@ -1,11 +1,11 @@
 <div align="center">
-    <!-- Dynamic Animated Header -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,27,32,35&height=300&section=header&text=Ali%20Heydari&desc=Senior%20Software%20Engineer%20|%20AI%20Expert%20|%20Security%20Specialist&fontSize=90&animation=fadeIn&fontColor=FFFFFF&descSize=20&fontAlignY=35&descAlignY=55" />
+  <!-- Dynamic Animated Header -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E3A8A,9333EA&height=300&section=header&text=Ali%20Heydari&desc=Senior%20Software%20Engineer%20|%20AI%20Pioneer%20|%20Cybersecurity%20Guardian&fontSize=90&animation=fadeIn&fontColor=FFFFFF&descSize=20&fontAlignY=35&descAlignY=55" />
 
   <!-- Professional Introduction -->
   <h2>👋 About Me</h2>
-  <p>
-    I'm a  Software Engineer with extensive expertise in full-stack development, artificial intelligence, and cybersecurity. I thrive on designing and building scalable, secure, and innovative solutions that solve real-world problems. With a passion for coding, I actively contribute to open-source projects, share knowledge by speaking at tech conferences, and continuously push the boundaries of technology to create impactful software.
+  <p style="max-width: 900px; margin: 0 auto;">
+    I’m a  Software Engineer with a rich background in full-stack development, artificial intelligence, and cybersecurity. I specialize in designing and building scalable, secure, and innovative solutions that address real-world challenges. My passion for coding drives me to contribute to open-source projects, speak at tech conferences, and explore cutting-edge technologies. Whether it’s crafting elegant code or pioneering AI-driven applications, I’m always pushing the boundaries of what’s possible.
   </p>
   <br><br>
 
@@ -54,7 +54,7 @@
       <img src="https://skillicons.dev/icons?i=materialui" width="100" />
     </div>
     <br>
-    <p>Building sleek, responsive UIs with HTML, CSS, Bootstrap, JavaScript, React, Next.js, and Material UI.</p>
+    <p>Designing sleek, responsive user interfaces with HTML, CSS, Bootstrap, JavaScript, React, Next.js, and Material UI.</p>
   </details>
   <br>
   <details open>
@@ -68,7 +68,7 @@
       <img src="https://skillicons.dev/icons?i=mysql" width="100" />
     </div>
     <br>
-    <p>Developing robust backends with Node.js, PHP, and Python, paired with MongoDB and MySQL for data management.</p>
+    <p>Building robust server-side solutions with Node.js, PHP, and Python, integrated with MongoDB and MySQL for efficient data management.</p>
   </details>
   <br>
   <details open>
@@ -76,9 +76,10 @@
     <br>
     <div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
       <img src="https://skillicons.dev/icons?i=pytorch" width="100" />
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="100" />
     </div>
     <br>
-    <p>Diving into AI and mastering PyTorch to create cutting-edge machine learning solutions.</p>
+    <p>Harnessing the power of AI with PyTorch and TensorFlow to develop intelligent, data-driven applications.</p>
   </details>
   <br>
   <details open>
@@ -88,11 +89,12 @@
       <img src="https://skillicons.dev/icons?i=linux" width="100" />
       <img src="https://skillicons.dev/icons?i=ubuntu" width="100" />
       <img src="https://skillicons.dev/icons?i=git" width="100" />
+      <img src="https://skillicons.dev/icons?i=docker" width="100" />
       <img src="https://skillicons.dev/icons?i=bash" width="100" />
       <img src="https://skillicons.dev/icons?i=powershell" width="100" />
     </div>
     <br>
-    <p>Optimizing workflows with Linux, Ubuntu, Git, Bash, and PowerShell.</p>
+    <p>Streamlining development workflows with Linux, Ubuntu, Git, Docker, Bash, and PowerShell.</p>
   </details>
   <br>
   <details open>
@@ -103,7 +105,7 @@
       <img src="https://img.shields.io/badge/Cybersecurity-Interested-9333EA?style=for-the-badge" height="100" />
     </div>
     <br>
-    <p>Fortifying systems with Kali Linux and advanced cybersecurity techniques.</p>
+    <p>Securing systems with Kali Linux and advanced cybersecurity practices to protect against modern threats.</p>
   </details>
   <br><br>
 
@@ -121,8 +123,14 @@
   </table>
   <br><br>
 
-<!-- Recent Contributions with Snake -->
-<p style="text-align: center;"> <a href="https://github.com/Ali-hey-0"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+  <!-- Recent Contributions -->
+  <h2>📅 Recent Contributions</h2>
+  <p style="text-align: center; font-size: 16px; color: #666;">Dive into my coding journey—check out my repos for the latest projects!</p>
+  <div style="text-align: center;">
+    <img src="https://ghchart.rshah.org/Ali-hey-0" alt="GitHub Contribution Chart" width="80%" />
+  </div>
+  <p style="text-align: center; font-size: 14px; color: #666;">A visual recap of my GitHub activity over time.</p>
+  <br><br>
 
   <!-- Featured Projects -->
   <h2 id="featured-projects">🌟 Featured Projects</h2>
@@ -134,9 +142,9 @@
             <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ali-hey-0&repo=BarcodeScannerAPI&bg_color=1E3A8A&title_color=9333EA&text_color=FFFFFF&icon_color=9333EA&hide_border=true" />
           </a>
         </div>
-        <p><b>BarcodeScannerAPI</b> - A powerful API for seamless barcode scanning.<br><i>#Python #API</i></p>
+        <p><b>BarcodeScannerAPI</b> - A high-performance API for seamless barcode scanning.<br><i>#Python #API</i></p>
       </td>
-      
+    
 
   </table>
   <br><br>
@@ -144,16 +152,17 @@
   <!-- Key Achievements -->
   <h2>🏆 Key Achievements</h2>
   <ul style="max-width: 900px; margin: 0 auto; text-align: left;">
-    <li>🇮🇷 Led a national project to completion ahead of schedule, boosting system efficiency by 30%</li>
-    <li>💻 Deployed full-stack apps that increased user engagement by 25%</li>
-    <li>🔒 Strengthened security protocols, cutting incidents by 40%</li>
+    <li>🇮🇷 Spearheaded a national project, delivering ahead of schedule and improving system efficiency by 30%</li>
+    <li>💻 Launched full-stack applications that boosted user engagement by 25%</li>
+    <li>🔒 Enhanced security protocols, reducing incidents by 40%</li>
+    <li>🤖 Developed an AI model that optimized resource allocation by 15%</li>
   </ul>
   <br><br>
 
   <!-- Beyond Code -->
   <h2>🔍 Beyond Code</h2>
   <p style="max-width: 900px; margin: 0 auto;">
-    Outside of coding, I’m fascinated by geography, biology, chemistry, football, series, pharmacy, medicine, brain function, and global cultures. These interests inspire my tech work—think biomimicry in software design or data-driven insights from nature!
+    When I’m not coding, I’m exploring diverse passions like geography, biology, chemistry, football, TV series, pharmacy, medicine, brain function, and global cultures. These interests fuel my tech work—whether it’s applying biomimicry to software design, drawing data insights from nature, or tackling interdisciplinary challenges with a creative mindset.
   </p>
   <br><br>
 
@@ -166,14 +175,17 @@
     <a href="https://linkedin.com/in/ali-heydari">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E3A8A" />
     </a>
+    <a href="https://twitter.com/yourusername">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1E3A8A" />
+    </a>
   </p>
-  <p style="max-width: 900px; margin: 0 auto;">Got an idea or collaboration in mind? I’d love to chat—reach out anytime!</p>
+  <p style="max-width: 900px; margin: 0 auto;">Have an idea or collaboration in mind? I’m all ears—drop me a line anytime!</p>
   <br><br>
 
   <!-- Call to Action -->
   <h2 style="color: #9333EA; font-size: 24px;">🚀 Let’s Build Something Epic</h2>
   <p style="max-width: 900px; margin: 0 auto;">
-    I’m excited to team up on full-stack, AI, or cybersecurity projects. Contact me at <a href="mailto:aliheydari1381doc@gmail.com">aliheydari1381doc@gmail.com</a>!
+    I’m eager to collaborate on full-stack, AI, or cybersecurity ventures. Reach out at <a href="mailto:aliheydari1381doc@gmail.com">aliheydari1381doc@gmail.com</a> and let’s create something extraordinary!
   </p>
   <br><br>
 
