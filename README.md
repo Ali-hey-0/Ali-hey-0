@@ -64,11 +64,12 @@
       <img src="https://skillicons.dev/icons?i=nodejs" width="100" />
       <img src="https://skillicons.dev/icons?i=php" width="100" />
       <img src="https://skillicons.dev/icons?i=python" width="100" />
+      <img src="https://skillicons.dev/icons?i=go" width="100" />
       <img src="https://skillicons.dev/icons?i=mongodb" width="100" />
       <img src="https://skillicons.dev/icons?i=mysql" width="100" />
     </div>
     <br>
-    <p>Building robust server-side solutions with Node.js, PHP, and Python, integrated with MongoDB and MySQL for efficient data management.</p>
+    <p>Building robust server-side solutions with Node.js, PHP,Go, and Python, integrated with MongoDB and MySQL for efficient data management.</p>
   </details>
   <br>
   <details open>
