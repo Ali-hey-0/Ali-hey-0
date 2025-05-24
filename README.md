@@ -4,9 +4,7 @@
 
   <!-- Professional Introduction -->
   <h2>👋 About Me</h2>
-  <p style="max-width: 900px; margin: 0 auto;">
-    I’m a  Software Engineer with a rich background in full-stack development, artificial intelligence, and cybersecurity. I specialize in designing and building scalable, secure, and innovative solutions that address real-world challenges. My passion for coding drives me to contribute to open-source projects, speak at tech conferences, and explore cutting-edge technologies. Whether it’s crafting elegant code or pioneering AI-driven applications, I’m always pushing the boundaries of what’s possible.
-  </p>
+ 
   <br><br>
 
   <!-- Dynamic Typing Effect -->
