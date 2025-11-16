@@ -173,6 +173,12 @@
     </a>
    
   </p>
+    <p>
+    <a href="https://8001-04c1e35b-273d-471b-ad76-801609beecb8-yiraf0oohhy6qipu.build-preview.cloudflare.dev/">
+    Blog
+    </a>
+   
+  </p>
   <p style="max-width: 900px; margin: 0 auto;">Have an idea or collaboration in mind? I’m all ears—drop me a line anytime!</p>
   <br><br>
 
