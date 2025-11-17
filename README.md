@@ -174,7 +174,7 @@
    
   </p>
     <p>
-    <a href="https://8001-04c1e35b-273d-471b-ad76-801609beecb8-yiraf0oohhy6qipu.build-preview.cloudflare.dev/">
+    <a href="https://v1-artisan-ai-blog-le0gcynaxcvolwr-epspb.build-preview.cloudflare.dev">
     Blog
     </a>
    
