@@ -148,16 +148,6 @@
   </table>
   <br><br>
 
-  <!-- Key Achievements -->
-  <h2>🏆 Key Achievements</h2>
-  <ul style="max-width: 900px; margin: 0 auto; text-align: left;">
-    <li>🇮🇷 Spearheaded a national project, delivering ahead of schedule and improving system efficiency by 30%</li>
-    <li>💻 Launched full-stack applications that boosted user engagement by 25%</li>
-    <li>🔒 Enhanced security protocols, reducing incidents by 40%</li>
-    <li>🤖 Developed an AI model that optimized resource allocation by 15%</li>
-  </ul>
-  <br><br>
-
   <!-- Beyond Code -->
   <h2>🔍 Beyond Code</h2>
   <p style="max-width: 900px; margin: 0 auto;">
