@@ -3,8 +3,7 @@
   <!-- Animated Header with Gradient -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25&height=300&section=header&text=Ali%20Heydari&desc=Software%20Engineer%20•%20AI%20Pioneer%20•%20Cybersecurity%20Guardian&fontSize=85&animation=fadeIn&fontColor=fff&descSize=24&fontAlignY=35&descAlignY=55" alt="Header Banner" />
 
-  <!-- Dynamic Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Crafting+Digital+Masterpieces+🎨;Full+Stack+%2B+AI+%2B+Cybersecurity+🛡️;Turning+Ideas+into+Reality+✨;Let's+Innovate+Together+🚀" alt="Typing SVG" />
+
 
   <br>
 
