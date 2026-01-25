@@ -1,10 +1,8 @@
+
 <div align="center">
   
   <!-- Animated Header with Gradient -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25&height=300&section=header&text=Ali%20Heydari&desc=Software%20Engineer%20•%20AI%20Pioneer%20•%20Cybersecurity%20Guardian&fontSize=85&animation=fadeIn&fontColor=fff&descSize=24&fontAlignY=35&descAlignY=55" alt="Header Banner" />
-
-
-
   <br>
 
   <!-- Profile Statistics Badges -->
@@ -23,7 +21,6 @@
     <img src="https://img.shields.io/badge/Passion-Artificial%20Intelligence-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI" />
     <img src="https://img.shields.io/badge/Interest-Cybersecurity-4ECDC4?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Security" />
   </p>
-
 </div>
 
 ---
@@ -31,7 +28,6 @@
 <div align="center">
 
 ## 🎯 Quick Navigation
-
 **[👨‍💻 About](#-about-me)** • 
 **[💼 Tech Stack](#-tech-stack)** • 
 **[📊 GitHub Stats](#-github-statistics)** • 
@@ -46,7 +42,6 @@
 <div align="center">
 
 ## 👨‍💻 About Me
-
 </div>
 
 ```typescript
@@ -59,8 +54,8 @@ const ali: Developer = {
     
     codeLanguages: {
         expert: ["JavaScript", "TypeScript", "Python"],
-        intermediate: ["PHP", "Go"],
-        learning: ["Rust"]
+        intermediate: ["PHP", "Go", "Rust"],
+        learning: ["Kotlin"]
     },
     
     techStack: {
@@ -71,7 +66,7 @@ const ali: Developer = {
         },
         backend: {
             runtime: ["Node.js", "Express"],
-            languages: ["Python", "PHP", "Go"],
+            languages: ["Python", "PHP", "Go", "Rust"],
             frameworks: ["FastAPI", "Django"]
         },
         databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
@@ -113,9 +108,10 @@ const ali: Developer = {
 ### ⚙️ Backend & Server
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
@@ -203,7 +199,6 @@ const ali: Developer = {
 <div align="center">
 
 ## 🏆 Achievements & Trophies
-
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Ali-hey-0&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&rank=-?" alt="GitHub Trophies" />
 
 </div>
@@ -275,7 +270,6 @@ graph TB
     style C fill:#4ECDC4,color:#fff
     style D fill:#FFD93D,color:#000
 ```
-
 </div>
 
 ---
@@ -289,48 +283,40 @@ graph TB
 <table>
   <tr>
     <td width="33%" valign="top">
-
-### 🎯 Currently Focused On
-- 🔭 Building **AI-powered applications**
-- 🌱 Mastering **Advanced ML & Deep Learning**
-- 👯 Open to **Open Source contributions**
-- 🤝 Seeking **collaboration opportunities**
-- 💬 Ask me about **Full Stack Development**
-- 🚀 Exploring **Cloud Architecture & DevOps**
-- 🔐 Learning **Advanced Cybersecurity**
-
-</td>
-<td width="33%" valign="top">
-
-### 🎨 Beyond Tech
-- 🌍 **Geography** - Exploring world cultures
-- 🧬 **Biology** - Understanding life sciences
-- ⚗️ **Chemistry** - Molecular interactions
-- ⚽ **Football** - Strategy & analytics
-- 📺 **TV Series** - Storytelling art
-- 💊 **Pharmacy** - Medical innovations
-- 🧠 **Neuroscience** - Brain functions
-
-</td>
-<td width="33%" valign="top">
-
-### 🎓 Always Learning
-- 📚 Reading technical books
-- 🎯 Taking online courses
-- 🏗️ Building side projects
-- 🤝 Contributing to open source
-- 📝 Writing technical blogs
-- 🎤 Sharing knowledge
-- 🌱 Growing every day
-
-</td>
+      <h3>🎯 Currently Focused On</h3>
+      - 🔭 Building <strong>AI-powered applications</strong><br>
+      - 🌱 Mastering <strong>Advanced ML & Deep Learning</strong><br>
+      - 👯 Open to <strong>Open Source contributions</strong><br>
+      - 🤝 Seeking <strong>collaboration opportunities</strong><br>
+      - 💬 Ask me about <strong>Full Stack Development</strong><br>
+      - 🚀 Exploring <strong>Cloud Architecture & DevOps</strong><br>
+      - 🔐 Learning <strong>Advanced Cybersecurity</strong>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎨 Beyond Tech</h3>
+      - 🌍 <strong>Geography</strong> - Exploring world cultures<br>
+      - 🧬 <strong>Biology</strong> - Understanding life sciences<br>
+      - ⚗️ <strong>Chemistry</strong> - Molecular interactions<br>
+      - ⚽ <strong>Football</strong> - Strategy & analytics<br>
+      - 📺 <strong>TV Series</strong> - Storytelling art<br>
+      - 💊 <strong>Pharmacy</strong> - Medical innovations<br>
+      - 🧠 <strong>Neuroscience</strong> - Brain functions
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎓 Always Learning</h3>
+      - 📚 Reading technical books<br>
+      - 🎯 Taking online courses<br>
+      - 🏗️ Building side projects<br>
+      - 🤝 Contributing to open source<br>
+      - 📝 Writing technical blogs<br>
+      - 🎤 Sharing knowledge<br>
+      - 🌱 Growing every day
+    </td>
   </tr>
 </table>
 
 <div align="center">
-
-*These diverse interests fuel my creativity and bring unique perspectives to problem-solving!*
-
+  <em>*These diverse interests fuel my creativity and bring unique perspectives to problem-solving!*</em>
 </div>
 
 ---
@@ -379,7 +365,6 @@ graph TB
 <div align="center">
 
 ## 💭 Developer Wisdom
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" width="70%" />
 
 </div>
@@ -388,7 +373,7 @@ graph TB
 
 <div align="center">
 
-## 🎯 2025 Goals & Vision
+## 🎯 2026 Goals & Vision
 
 </div>
 
@@ -399,7 +384,8 @@ Professional Goals:
     - Cloud Architecture (AWS, Azure, GCP)
     - System Design & Scalability
     - Advanced Cybersecurity Techniques
-  
+    - Rust Systems Programming
+
   Project Goals:
     - Launch: 5+ AI-powered applications
     - Build: Personal SaaS product
@@ -407,8 +393,8 @@ Professional Goals:
     - Create: Technical course or tutorial series
   
   Learning Path:
-    - Languages: [Rust, Kotlin]
-    - Technologies: [Kubernetes, WebAssembly, GraphQL]
+    - Languages: [Kotlin, WebAssembly]
+    - Technologies: [Kubernetes, GraphQL, Substrate]
     - Concepts: [Microservices, Serverless, Edge Computing]
 
 Personal Development:
@@ -475,7 +461,6 @@ Life Balance:
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
 <sub>*Tracking my coding activity with WakaTime*</sub>
 
 </div>
@@ -487,7 +472,6 @@ Life Balance:
 ## 🚀 Let's Build Something Amazing Together!
 
 <img width="60%" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Collaboration" />
-
 <br><br>
 
 **I'm eager to collaborate on:**
@@ -503,7 +487,6 @@ Life Balance:
 ### 📬 Get In Touch
 
 **Have a project idea? Want to collaborate? Or just want to chat about tech?**
-
 Drop me an email at **[aliheydari1381doc@gmail.com](mailto:aliheydari1381doc@gmail.com)**
 
 *Let's turn ideas into reality! 🚀*
@@ -515,11 +498,9 @@ Drop me an email at **[aliheydari1381doc@gmail.com](mailto:aliheydari1381doc@gma
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70" alt="Footer" />
-
 <br>
 
 **"The only way to do great work is to love what you do." – Steve Jobs**
-
 <br>
 
 <p align="center">
@@ -528,9 +509,8 @@ Drop me an email at **[aliheydari1381doc@gmail.com](mailto:aliheydari1381doc@gma
 </p>
 
 <br>
-
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
 
-<sub>⭐️ From [Ali-hey-0](https://github.com/Ali-hey-0) | Last updated: January 2025</sub>
-
+<sub>⭐️ From [Ali-hey-0](https://github.com/Ali-hey-0) | Last updated: 2026</sub>
 </div>
+```
