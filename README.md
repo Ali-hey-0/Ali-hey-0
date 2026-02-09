@@ -1002,28 +1002,6 @@ My interdisciplinary background fuels innovative solutions:
 
 ---
 
-<!-- Support Section -->
-<div align="center">
-
-## ☕ Support My Work
-
-If you find my projects helpful or appreciate my open-source contributions, consider supporting my work!
-
-<a href="https://www.buymeacoffee.com/aliheydari">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-</a>
-<a href="https://ko-fi.com/aliheydari">
-  <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
-</a>
-
-<br><br>
-
-*Your support helps me create more open-source projects and educational content!* ❤️
-
-</div>
-
----
-
 <!-- Footer -->
 <div align="center">
 
