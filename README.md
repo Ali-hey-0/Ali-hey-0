@@ -345,7 +345,7 @@ const codePhilosophy = () => {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ali-hey-0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Ali-hey-0&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ali-hey-0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=Ali-hey-0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
 </picture>
 
 <picture>
@@ -364,7 +364,7 @@ const codePhilosophy = () => {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-hey-0&theme=tokyonight&hide_border=true&layout=compact&langs_count=12&card_width=400" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-hey-0&theme=default&hide_border=true&layout=compact&langs_count=12&card_width=400" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-hey-0&theme=tokyonight&hide_border=true&layout=compact&langs_count=12" alt="Top Languages" />
+  <img width="40%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ali-hey-0&theme=tokyonight&hide_border=true&layout=compact&langs_count=12" alt="Top Languages" />
 </picture>
 
 <picture>
@@ -430,7 +430,7 @@ const codePhilosophy = () => {
 ### 🔍 [BarcodeScannerAPI](https://github.com/Ali-hey-0/BarcodeScannerAPI)
 
 <a href="https://github.com/Ali-hey-0/BarcodeScannerAPI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ali-hey-0&repo=BarcodeScannerAPI&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=Ali-hey-0&repo=BarcodeScannerAPI&theme=tokyonight&hide_border=true" width="100%" />
 </a>
 
 **High-Performance Computer Vision API**
@@ -457,7 +457,7 @@ Production-ready barcode scanning service built with modern technologies for rea
 
 ### 🌟 Coming Soon
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ali-hey-0&repo=Ali-hey-0&theme=tokyonight&hide_border=true&show_owner=true" width="100%" />
+<img src="https://github-readme-stats.shion.dev/api/pin/?username=Ali-hey-0&repo=Ali-hey-0&theme=tokyonight&hide_border=true&show_owner=true" width="100%" />
 
 **🔨 In Development:**
 
