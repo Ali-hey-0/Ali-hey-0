@@ -110,57 +110,43 @@ const ali: Developer = {
     
     learning: [
         "Advanced Deep Learning & Neural Architecture",
-        "Rust Systems Programming & WebAssembly",
-        "Cloud Architecture (AWS/Azure/GCP)",
+        "Rust Systems Programming 
         "Web3 Technologies & Smart Contracts",
         "Advanced Cybersecurity & Ethical Hacking"
     ],
     
     languages: {
-        expert: ["JavaScript", "TypeScript", "Python"],
-        proficient: ["PHP", "Go", "Rust", "SQL"],
-        familiar: ["Kotlin", "C++", "Java"],
-        learning: ["WebAssembly", "Solidity"]
+        expert: ["JavaScript", "Python"],
+        proficient: ["PHP", "Rust", "SQL"],
+        
     },
     
     expertise: {
         frontend: {
-            core: ["React", "Next.js", "Vue.js"],
-            styling: ["TailwindCSS", "Material-UI", "Styled-Components"],
-            state: ["Redux", "Zustand", "React Query"],
-            tools: ["Webpack", "Vite", "Babel"]
+           
+            "React"
         },
         backend: {
-            node: ["Express.js", "Nest.js", "Fastify"],
-            python: ["FastAPI", "Django", "Flask"],
-            rust: ["Actix-web", "Rocket", "Axum"],
-            other: ["Go", "GraphQL", "gRPC"]
+            node: ["Express.js",],
+            python: ["FastAPI",],
         },
         database: {
             sql: ["PostgreSQL", "MySQL", "SQLite"],
-            noSql: ["MongoDB", "Redis", "Cassandra"],
-            orm: ["Prisma", "TypeORM", "SQLAlchemy"],
-            cloud: ["Firebase", "Supabase", "DynamoDB"]
+            noSql: ["MongoDB",],
+            orm: ["Prisma", ],
+            
         },
         aiMl: ["PyTorch", "TensorFlow", "Scikit-Learn", "Hugging Face", "OpenCV"],
-        devOps: ["Docker", "Kubernetes", "GitHub Actions", "CI/CD", "Linux"],
+        devOps: ["Docker", "GitHub Actions", "Linux"],
         security: ["OWASP", "Penetration Testing", "Network Security", "Cryptography"]
     },
     
     interests: {
-        technology: ["AI/ML", "Cybersecurity", "Cloud Computing", "Blockchain"],
+        technology: ["AI/Ml"],
         science: ["Neuroscience", "Biology", "Chemistry", "Physics"],
         data: ["Data Visualization", "Analytics", "Sports Analytics"],
-        creative: ["Technical Writing", "UI/UX Design", "Open Source"]
+        creative: ["Technical Writing", "Open Source"]
     },
-    
-    values: [
-        "Clean Code & Best Practices",
-        "Continuous Learning & Growth",
-        "Open Source Contribution",
-        "Knowledge Sharing & Mentorship",
-        "Security & Privacy First"
-    ]
 };
 
 // My approach to development
@@ -181,7 +167,7 @@ const codePhilosophy = () => {
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/5+-Years_Coding-9333EA?style=flat-square&labelColor=1E3A8A" />
+<img src="https://img.shields.io/badge/3+-Years_Coding-9333EA?style=flat-square&labelColor=1E3A8A" />
 <br><strong>Experience</strong>
 </td>
 <td align="center" width="25%">
@@ -217,20 +203,8 @@ const codePhilosophy = () => {
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
 </div>
 
 ### ⚙️ Backend & Systems Programming
@@ -239,17 +213,7 @@ const codePhilosophy = () => {
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
 </div>
 
 ### 🗄️ Databases & Caching
@@ -259,12 +223,6 @@ const codePhilosophy = () => {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
 </div>
 
 ### 🤖 AI/ML & Data Science
@@ -272,8 +230,6 @@ const codePhilosophy = () => {
 <div align="center">
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -286,18 +242,9 @@ const codePhilosophy = () => {
 ### ☁️ Cloud & DevOps
 
 <div align="center">
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
 </div>
 
 ### 🔒 Security & Testing
@@ -308,9 +255,6 @@ const codePhilosophy = () => {
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-
 </div>
 
 ### 🛠️ Development Tools
@@ -324,8 +268,6 @@ const codePhilosophy = () => {
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
 </div>
 
 ---
@@ -444,32 +386,13 @@ Production-ready barcode scanning service built with modern technologies for rea
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-
-**Key Features:**
-- ⚡ Real-time barcode detection
-- 🎯 Multi-format support
-- 🔄 RESTful API design
-- 📦 Containerized deployment
-- 🚀 High-performance processing
-
 </td>
 <td width="50%" valign="top">
 
-### 🌟 Coming Soon
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ali-hey-0&repo=Ali-hey-0&theme=tokyonight&hide_border=true&show_owner=true" width="100%" />
 
 **🔨 In Development:**
 
 <table>
-<tr><td>
-
-**🤖 AI Projects**
-- Neural Network Visualizer
-- ML Model Deployment Platform
-- AI-Powered Code Assistant
-
-</td></tr>
 <tr><td>
 
 **🦀 Rust Systems**
@@ -548,127 +471,13 @@ graph TB
 <!-- Skills & Expertise Section -->
 <div align="center">
 
-## 🎯 Expertise & Focus Areas
 
-</div>
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 💻 Current Focus
-
-<img src="https://img.shields.io/badge/Status-Actively_Building-success?style=for-the-badge" />
-
-- 🔭 **AI/ML Applications**
-  - Deep learning models
-  - Computer vision systems
-  - Natural language processing
-
-- 🦀 **Rust Development**
-  - Systems programming
-  - WebAssembly modules
-  - High-performance APIs
-
-- ☁️ **Cloud Architecture**
-  - Scalable microservices
-  - Serverless functions
-  - Container orchestration
-
-- 🔐 **Security Engineering**
-  - Secure code practices
-  - Penetration testing
-  - Threat modeling
-
-</td>
-<td width="33%" valign="top">
-
-### 📚 Learning Path
-
-<img src="https://img.shields.io/badge/Progress-Continuous-blue?style=for-the-badge" />
-
-- 🎓 **Studying**
-  - Advanced ML algorithms
-  - Rust async programming
-  - Cloud certifications
-  - System design patterns
-
-- 📖 **Reading**
-  - *Designing Data-Intensive Apps*
-  - *The Rust Programming Language*
-  - *Deep Learning* by Goodfellow
-  - *Clean Architecture*
-
-- 🏗️ **Building**
-  - Personal SaaS product
-  - Open source contributions
-  - Technical blog content
-  - Portfolio projects
-
-</td>
-<td width="33%" valign="top">
-
-### 🌟 Interests
-
-<img src="https://img.shields.io/badge/Mindset-Interdisciplinary-blueviolet?style=for-the-badge" />
-
-- 🧬 **Science**
-  - Neuroscience
-  - Biology & biomimicry
-  - Chemistry & materials
-  - Medical technology
-
-- 📊 **Analytics**
-  - Data visualization
-  - Sports analytics
-  - Geographic data
-  - Statistical modeling
-
-- 🎨 **Creative**
-  - UI/UX design
-  - Technical writing
-  - Content creation
-  - Community building
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- Goals & Vision Section -->
-<div align="center">
-
-## 🎯 2026 Vision & Goals
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="900">
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🚀 Technical Milestones
-
-<table>
-<tr><td>
-
-**🎓 Certifications**
-- [ ] AWS Solutions Architect
-- [ ] Certified Ethical Hacker (CEH)
-- [ ] Kubernetes Administrator (CKA)
-- [ ] TensorFlow Developer
-
-</td></tr>
 <tr><td>
 
 **💻 Master Technologies**
 - [x] React & Next.js ecosystem
 - [x] Python for AI/ML
 - [ ] Rust systems programming
-- [ ] Advanced Kubernetes
-- [ ] WebAssembly development
 
 </td></tr>
 <tr><td>
@@ -676,20 +485,10 @@ graph TB
 **📦 Ship Products**
 - [x] 1 production API
 - [ ] 3+ web applications
-- [ ] 1 SaaS product
 - [ ] 5+ npm/cargo packages
-- [ ] 2+ mobile apps
 
 </td></tr>
 <tr><td>
-
-**🌟 Open Source**
-- [ ] 10+ meaningful PRs
-- [ ] Maintain 2+ projects
-- [ ] 500+ GitHub stars
-- [ ] Active contributor badge
-
-</td></tr>
 </table>
 
 </td>
@@ -699,126 +498,6 @@ graph TB
 
 <table>
 <tr><td>
-
-**✍️ Content Creation**
-- [ ] 50+ blog posts
-- [ ] YouTube channel launch
-- [ ] Technical course creation
-- [ ] Weekly newsletters
-- [ ] Podcast appearances
-
-</td></tr>
-<tr><td>
-
-**🤝 Community Impact**
-- [ ] Speak at 2+ conferences
-- [ ] Mentor 10+ developers
-- [ ] Host tech workshops
-- [ ] Build local tech community
-- [ ] Contribute to education
-
-</td></tr>
-<tr><td>
-
-**📚 Knowledge Growth**
-- [ ] Read 24 technical books
-- [ ] Complete 10+ courses
-- [ ] Attend 5+ conferences
-- [ ] Build 20+ projects
-- [ ] Learn 2+ new languages
-
-</td></tr>
-<tr><td>
-
-**⚖️ Work-Life Balance**
-- [ ] Regular exercise routine
-- [ ] Mindfulness practice
-- [ ] Travel & exploration
-- [ ] Creative hobbies
-- [ ] Community involvement
-
-</td></tr>
-</table>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- Progress Tracker -->
-<div align="center">
-
-### 📊 2026 Progress Tracker
-
-| Goal Category | Target | Current | Progress | Status |
-|:--------------|:------:|:-------:|:--------:|:------:|
-| **🚀 Projects Launched** | 5 | 1 | ![20%](https://progress-bar.dev/20?width=200&color=9333EA) | 🔥 In Progress |
-| **📝 Blog Articles** | 50 | 3 | ![6%](https://progress-bar.dev/6?width=200&color=FF6B6B) | ✍️ Writing |
-| **🤝 Open Source PRs** | 10 | 2 | ![20%](https://progress-bar.dev/20?width=200&color=4ECDC4) | 💪 Contributing |
-| **🎓 Certifications** | 2 | 0 | ![0%](https://progress-bar.dev/0?width=200&color=FFD93D) | 📚 Studying |
-| **📚 Books Read** | 24 | 5 | ![21%](https://progress-bar.dev/21?width=200&color=success) | 📖 Reading |
-| **👥 Developers Mentored** | 10 | 3 | ![30%](https://progress-bar.dev/30?width=200&color=blueviolet) | 🎯 Mentoring |
-
-</div>
-
----
-
-<!-- Philosophy Section -->
-<div align="center">
-
-## 💭 Development Philosophy
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-</div>
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-### 🌟 Core Principles
-
-```rust
-struct CodePhilosophy {
-    design: &'static str,
-    implementation: &'static str,
-    testing: &'static str,
-    deployment: &'static str,
-    mindset: &'static str,
-}
-
-impl CodePhilosophy {
-    fn new() -> Self {
-        Self {
-            design: "Simple, scalable, and maintainable",
-            implementation: "Clean, tested, and documented",
-            testing: "Comprehensive, automated, and reliable",
-            deployment: "Secure, monitored, and optimized",
-            mindset: "Always learning, always improving"
-        }
-    }
-}
-
-trait DeveloperMindset {
-    fn write_code(&self) -> &str {
-        "With purpose and clarity"
-    }
-    
-    fn solve_problems(&self) -> &str {
-        "With creativity and persistence"
-    }
-    
-    fn collaborate(&self) -> &str {
-        "With empathy and openness"
-    }
-    
-    fn learn(&self) -> &str {
-        "Continuously and passionately"
-    }
-}
-```
-
 ### 🎨 Unique Approach
 
 My interdisciplinary background fuels innovative solutions:
@@ -827,31 +506,7 @@ My interdisciplinary background fuels innovative solutions:
 - **⚗️ Chemistry** → Reaction modeling for distributed systems
 - **🧠 Neuroscience** → Brain-inspired neural architectures
 - **📊 Sports Analytics** → Data-driven decision frameworks
-- **🌍 Geography** → Spatial computing & visualization
-
-> *"The best code emerges at the intersection of science, creativity, and engineering discipline."*
-
-</td>
-<td width="40%" valign="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-
-<br><br>
-
-### ⚡ Developer Traits
-
-<img src="https://img.shields.io/badge/☕_Coffee-Fueled-8B4513?style=for-the-badge&labelColor=4A2511" />
-<br>
-<img src="https://img.shields.io/badge/🌙_Night-Owl-191970?style=for-the-badge&labelColor=000080" />
-<br>
-<img src="https://img.shields.io/badge/🐛_Debug-Master-2E8B57?style=for-the-badge&labelColor=006400" />
-<br>
-<img src="https://img.shields.io/badge/🚀_Ship-Fast-FF4500?style=for-the-badge&labelColor=8B0000" />
-<br>
-<img src="https://img.shields.io/badge/📚_Learn-Always-4169E1?style=for-the-badge&labelColor=00008B" />
-<br>
-<img src="https://img.shields.io/badge/🤝_Share-Knowledge-9370DB?style=for-the-badge&labelColor=4B0082" />
-
+- **🌍 Geography**
 </td>
 </tr>
 </table>
@@ -872,29 +527,6 @@ My interdisciplinary background fuels innovative solutions:
 <br><br>
 
 ### 🎯 Open to Opportunities In
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Full_Stack-Engineering-9333EA?style=flat-square" /><br>
-<strong>Web Development</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/AI%2FML-Engineering-FF6B6B?style=flat-square" /><br>
-<strong>Machine Learning</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Systems-Programming-000000?style=flat-square" /><br>
-<strong>Rust Development</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Security-Engineering-4ECDC4?style=flat-square" /><br>
-<strong>Cybersecurity</strong>
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
@@ -958,21 +590,6 @@ My interdisciplinary background fuels innovative solutions:
 </td>
 </tr>
 </table>
-
-<br>
-
-### 🤝 Let's Build Something Amazing!
-
-**I'm passionate about collaborating on:**
-
-🤖 **AI/ML Projects** • 🌐 **Full-Stack Applications** • 🦀 **Rust Systems** • 🔒 **Security Tools** • 📱 **Mobile Apps** • 💡 **Innovative Startups** • 🎓 **EdTech Solutions** • 🌍 **Open Source**
-
-<br>
-
-**Have a project idea? Want to collaborate? Just want to chat about tech?**
-
-<img src="https://img.shields.io/badge/Let's_Talk!-9333EA?style=for-the-badge&logo=telegram&logoColor=white" />
-
 </div>
 
 ---
@@ -983,20 +600,6 @@ My interdisciplinary background fuels innovative solutions:
 ## 💭 Daily Inspiration
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Dev Quote" width="70%" />
-
-</div>
-
----
-
-<!-- WakaTime Section -->
-<div align="center">
-
-## 📊 Weekly Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<sub>*Powered by WakaTime*</sub>
 
 </div>
 
