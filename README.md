@@ -7,20 +7,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 
-</div>
 
-```typescript
-interface Developer {
-    name: string;
-    role: string;
-    location: string;
-    currentFocus: string[];
-    learning: string[];
-    languages: LanguageSkills;
-    expertise: TechStack;
-    interests: Interests;
-    values: string[];
-}
 
 const ali: Developer = {
     name: "Ali Heydari",
@@ -133,14 +120,6 @@ Production-ready barcode scanning service built with modern technologies for rea
 - Distributed Task Queue
 
 </td></tr>
-<tr><td>
-
-**🌐 Web Applications**
-- Real-time Collaboration Tool
-- SaaS Analytics Dashboard
-- Progressive Web App Framework
-
-</td></tr>
 </table>
 
 </td>
@@ -187,7 +166,7 @@ graph TB
 <tr><td>
 
 **💻 Master Technologies**
-- [x] React & Next.js ecosystem
+- [x] React 
 - [x] Python for AI/ML
 - [ ] Rust systems programming
 
@@ -238,9 +217,6 @@ My interdisciplinary background fuels innovative solutions:
 
 <br><br>
 
-### 🎯 Open to Opportunities In
-
----
 
 <!-- Connect Section -->
 <div align="center">
