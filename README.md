@@ -103,8 +103,6 @@ const codePhilosophy = () => ({
 
 ## 🚀 Projects
 
-> ℹ️ **How to add a new project:** copy the template row at the bottom of the table, fill in the name, description, tech badges, and whichever links apply (Live Demo and/or Source Code — use `—` for whichever doesn't apply, e.g. `🔒 Private` if the code isn't public), then paste it back into the table. One row per project keeps things tidy and easy to scan.
-
 | Project | Description | Tech | Live Demo | Source Code |
 |---|---|---|---|---|
 | 📝 **Personal Blog** | My personal blog, where I write about my technical journey, projects, and ideas. | ![Web](https://img.shields.io/badge/-Web-FF5722?style=flat-square) | [Visit](https://abedini.me/fa/) | — |
