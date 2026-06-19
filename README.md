@@ -4,7 +4,10 @@
 
 # 👨‍💻 Ali Heydari
 
-**Backend Developer & AI Enthusiast** | Python · Node.js · FastAPI · Cybersecurity
+**Full-Stack Software Engineer & AI Enthusiast** | Python · Node.js · .NET/Blazor · FastAPI · Edge AI
+
+[![Followers](https://img.shields.io/github/followers/Ali-hey-0?style=social)](https://github.com/Ali-hey-0?tab=followers)
+[![Stars](https://img.shields.io/github/stars/Ali-hey-0?style=social)](https://github.com/Ali-hey-0?tab=repositories)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliheydari1381doc@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-heydari)
@@ -101,23 +104,112 @@ const codePhilosophy = () => ({
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
+
+> ℹ️ **How to add a new project:** copy the template row from the bottom of the relevant category table below, fill in the name, one-line description, tech badges, and whichever links apply (use `—` for whichever doesn't apply, or `🔒 Private` if the source isn't public), then paste it back in. Keep one row per project.
+
+### 🌐 Web & Full-Stack
 
 | Project | Description | Tech | Live Demo | Source Code |
 |---|---|---|---|---|
-| 📝 **Personal Blog** | My personal blog, where I write about my technical journey, projects, and ideas. | ![Web](https://img.shields.io/badge/-Web-FF5722?style=flat-square) | [Visit](https://abedini.me/fa/) | — |
-| 🏭 **Arka Industrial** | Industrial e-commerce platform for Arka Industrial — currently running on staging ahead of its move to the production domain. | ![Web](https://img.shields.io/badge/-Web_App-FF5722?style=flat-square) ![Staging](https://img.shields.io/badge/-Staging-FFD93D?style=flat-square) | [Visit (staging)](https://staging.arkaindustrial.com/) | — |
+| 📝 **Personal Blog** | My personal blog — technical journey, project write-ups, and ideas. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | [Visit](https://abedini.me/fa/) | [Repo](https://github.com/Ali-hey-0/MyBlog) |
+| 🏭 **Arka Industrial** | Industrial e-commerce platform — currently on staging ahead of moving to the production domain. | ![Web](https://img.shields.io/badge/-Web_App-FF5722?style=flat-square) ![Staging](https://img.shields.io/badge/-Staging-FFD93D?style=flat-square) | [Visit (staging)](https://staging.arkaindustrial.com/) | — |
+| 🏫 **EduPortal** | A school management website built with PHP and MySQL. | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/php-website) |
+| ➕ *Your next project* | *One-line description.* | *Tech badges* | *Live URL or —* | *Repo URL or 🔒 Private* |
+
+### 🖥️ Desktop & Mobile (.NET)
+
+| Project | Description | Tech | Live Demo | Source Code |
+|---|---|---|---|---|
 | 💼 **AdvanceAccounting** | Windows desktop accounting application for managing business bookkeeping and finances. | ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white) ![.NET 9](https://img.shields.io/badge/-.NET_9-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white) | — | 🔒 Private |
-| ♻️ **Yolo8n_AI_doc** | A YOLOv8n-based object-detection model — together with a full benchmarking & evaluation methodology — for sorting waste on an edge microcontroller along a production line. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![YOLOv8](https://img.shields.io/badge/-YOLOv8-00FFFF?style=flat-square) ![Edge AI](https://img.shields.io/badge/-Edge_AI-6E40C9?style=flat-square) | — | [Repo](https://github.com/Ali-hey-0/Yolo8n_AI_doc) |
-| ⚖️ **bluetooth_ble_app_weight** | A .NET MAUI app that connects to a microcontroller-based sensor over Bluetooth LE and displays incoming weight readings live, in real time. | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![.NET MAUI](https://img.shields.io/badge/-.NET_MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![BLE](https://img.shields.io/badge/-Bluetooth_LE-0082FC?style=flat-square&logo=bluetooth&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/bluetooth_ble_app_weight) |
-| 🔍 **BarcodeScannerAPI** | High-performance computer-vision API for real-time barcode scanning. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/BarcodeScannerAPI) |
+| ⚖️ **bluetooth_ble_app_weight** | A .NET MAUI app that connects to a microcontroller-based sensor over Bluetooth LE and displays live weight readings in real time. | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![.NET MAUI](https://img.shields.io/badge/-.NET_MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![BLE](https://img.shields.io/badge/-Bluetooth_LE-0082FC?style=flat-square&logo=bluetooth&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/bluetooth_ble_app_weight) |
+| ➕ *Your next project* | *One-line description.* | *Tech badges* | *Live URL or —* | *Repo URL or 🔒 Private* |
+
+### 🤖 AI / Machine Learning & Edge AI
+
+| Project | Description | Tech | Live Demo | Source Code |
+|---|---|---|---|---|
+| ♻️ **Yolo8n_AI_doc** | Benchmark & evaluation methodology for YOLOv8n waste-sorting models running on edge hardware along a production line — covering inference latency, model size, and thermal/system robustness. | ![YOLOv8](https://img.shields.io/badge/-YOLOv8n-00FFFF?style=flat-square) ![Edge AI](https://img.shields.io/badge/-Edge_AI-6E40C9?style=flat-square) | — | [Repo](https://github.com/Ali-hey-0/Yolo8n_AI_doc) |
 | 🌦️ **forecast-fusion** | Multivariate weather forecasting using Transformers and FastAPI, with real-time predictions and interactive visualization. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/forecast-fusion) |
-| 📚 **DeepLearning-YouTube** | Companion notebooks for a Deep Learning course series on YouTube. | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/DeepLearning-YouTube) |
-| 🛡️ **Hacking-Tools** | A collection of network-security and offensive-security documentation, scripts, and tooling. | ![Security](https://img.shields.io/badge/-Security-FFD93D?style=flat-square) | — | [Repo](https://github.com/Ali-hey-0/Hacking-Tools) |
-| 📝 **MyBlog** | Source code for a personal blog built from scratch. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/MyBlog) |
-| ➕ *Your next project* | *Short one-line description of what it does and why it's interesting.* | *Badges for the stack used* | *Live URL or —* | *Repo URL or 🔒 Private* |
+| 🩻 **radiography-xray-classifier** | AI-powered web app that classifies chest X-rays (COVID-19, Normal, Lung Opacity, Viral Pneumonia) using deep learning with Grad-CAM visualization. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/radiography-xray-classifier) |
+| ➕ *Your next project* | *One-line description.* | *Tech badges* | *Live URL or —* | *Repo URL or 🔒 Private* |
+
+### 🔧 Tools & Utilities
+
+| Project | Description | Tech | Live Demo | Source Code |
+|---|---|---|---|---|
+| 🔍 **BarcodeScannerAPI** | Node.js backend service for scanning, processing, and managing barcodes, built for easy integration with any application needing barcode recognition. | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/BarcodeScannerAPI) |
+| 🔐 **CryptoVault Pro** | File encryption/decryption tool, shipped both as a Python app with a GUI and as a low-level Assembly implementation. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=flat-square) | — | [Python](https://github.com/Ali-hey-0/pycryptovault) · [Assembly](https://github.com/Ali-hey-0/Assembly-File-Encryption) |
+| 🔲 **QRception** | A simple, fast QR code generator. | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/QRception) |
+| ➕ *Your next project* | *One-line description.* | *Tech badges* | *Live URL or —* | *Repo URL or 🔒 Private* |
+
+### 📚 Educational Content I've Created
+
+| Project | Description | Tech | Link |
+|---|---|---|---|
+| 🎓 **DeepLearning-YouTube** | Companion notebooks for a Deep Learning course series on YouTube. | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | [Repo](https://github.com/Ali-hey-0/DeepLearning-YouTube) |
+| 🦀 **Rust_Roadmap** | A hands-on learning path through Rust — from fundamentals to networking, async programming, macros, and system design. | ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) | [Repo](https://github.com/Ali-hey-0/Rust_Roadmap) |
+
+<div align="center">
+
+<a href="https://github.com/Ali-hey-0/BarcodeScannerAPI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ali-hey-0&repo=BarcodeScannerAPI&theme=tokyonight&hide_border=true" width="48%" />
+</a>
+<a href="https://github.com/Ali-hey-0/forecast-fusion">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ali-hey-0&repo=forecast-fusion&theme=tokyonight&hide_border=true" width="48%" />
+</a>
 
 </div>
+
+---
+
+<details>
+<summary><h2 style="display:inline;">🔐 Offensive Security Research</h2></summary>
+
+> ⚠️ **Lab-safe & educational.** The repositories below are part of my ongoing self-study in offensive security and penetration testing — built and run in isolated lab environments for learning, documentation, and red-team practice. None of this is intended for, or used in, unauthorized access of real systems.
+
+| Project | Description | Link |
+|---|---|---|
+| 🕸️ **Aion** | Botnet/C2 simulation lab demonstrating offensive-security techniques in a single Python framework (lab-safe implementation). | [Repo](https://github.com/Ali-hey-0/Aion) |
+| 🌐 **Hacking-Tools** | Collection of network-security documentation, technical write-ups, and tooling. | [Repo](https://github.com/Ali-hey-0/Hacking-Tools) |
+| 🛡️ **owasp** | OWASP-based security training & penetration-testing lab. | [Repo](https://github.com/Ali-hey-0/owasp) |
+| 🐉 **Kali-Tools** | A curated, all-in-one collection of hacking/pentesting tools. | [Repo](https://github.com/Ali-hey-0/Kali-Tools) |
+| 💣 **nightmare-exploit-roadmap** | A structured binary-exploitation curriculum: stack, heap, mitigations, ROP, and automated exploitation. | [Repo](https://github.com/Ali-hey-0/nightmare-exploit-roadmap) |
+| 🔑 **NatasPasswordCracker** | Walkthrough/solver for the Natas web-security wargame challenges. | [Repo](https://github.com/Ali-hey-0/NatasPasswordCracker) |
+| 📡 **Ddos-tutorial** | Educational guide on DDoS target analysis and attack-method classification. | [Repo](https://github.com/Ali-hey-0/Ddos-tutorial) |
+| 🔎 **OSINT** | All-in-one OSINT reconnaissance tool for analyzing websites. | [Repo](https://github.com/Ali-hey-0/OSINT) |
+| 🕵️ **browser-fingerprint-collector** | A research tool exploring browser fingerprinting techniques. | [Repo](https://github.com/Ali-hey-0/browser-fingerprint-collector) |
+| 🧬 **Ransomware.Jigsaw** | Educational analysis/recreation of the Jigsaw ransomware for malware-research purposes. | [Repo](https://github.com/Ali-hey-0/Ransomware.Jigsaw) |
+| 📥 **config-scrapper-** | A Telegram channel config scraper, built for OSINT/data-collection research. | [Repo](https://github.com/Ali-hey-0/config-scrapper-) |
+
+</details>
+
+<details>
+<summary><h2 style="display:inline;">📖 Learning Resources & Inspiration</h2></summary>
+
+> Repositories I've forked or imported from other authors to study, reference, or build on — not original work of mine, kept here as a personal library.
+
+| Resource | Original Author | What it's for | Link |
+|---|---|---|---|
+| LLMs-from-scratch | [rasbt](https://github.com/rasbt) | Implementing a ChatGPT-like LLM in PyTorch from scratch. | [Repo](https://github.com/Ali-hey-0/LLMs-from-scratch) |
+| 🤗 datasets | [huggingface](https://github.com/huggingface) | Hub of ready-to-use datasets for AI models. | [Repo](https://github.com/Ali-hey-0/datasets) |
+| heroui | [heroui-inc](https://github.com/heroui-inc) | Modern React UI library (formerly NextUI). | [Repo](https://github.com/Ali-hey-0/heroui) |
+| awesome-llm-apps | [Shubhamsaboo](https://github.com/Shubhamsaboo) | Collection of LLM apps with AI Agents and RAG. | [Repo](https://github.com/Ali-hey-0/awesome-llm-apps) |
+| Awesome-Hacking | [Hack-with-Github](https://github.com/Hack-with-Github) | Curated lists for hackers, pentesters & security researchers. | [Repo](https://github.com/Ali-hey-0/Awesome-Hacking) |
+| awesome-courses | [prakhar1989](https://github.com/prakhar1989) | List of awesome university CS courses. | [Repo](https://github.com/Ali-hey-0/awesome-courses) |
+| awesome-interview-questions | [DopplerHQ](https://github.com/DopplerHQ) | Curated list of interview-question lists. | [Repo](https://github.com/Ali-hey-0/awesome-interview-questions) |
+| Ultimate-RAT-Collection | [archmmd](https://github.com/archmmd) | Educational reference of trojan/RAT builders. | [Repo](https://github.com/Ali-hey-0/Ultimate-RAT-Collection) |
+| DALI | [NVIDIA](https://github.com/NVIDIA) | GPU-accelerated data-loading library for deep learning. | [Repo](https://github.com/Ali-hey-0/DALI) |
+| EvoSynth | [dongdongunique](https://github.com/dongdongunique) | Evolutionary-synthesis reference project. | [Repo](https://github.com/Ali-hey-0/EvoSynth) |
+| practical-tutorials-project-based-learning | [jderazoa](https://github.com/jderazoa) | Curated list of project-based tutorials. | [Repo](https://github.com/Ali-hey-0/practical-tutorials-project-based-learning) |
+| Qiskit | [Qiskit](https://github.com/Qiskit) | Open-source SDK for quantum computing. | [Repo](https://github.com/Ali-hey-0/Qiskit) |
+| opencv | [opencv](https://github.com/opencv) | Open Source Computer Vision Library. | [Repo](https://github.com/Ali-hey-0/opencv) |
+| Models-Master | [tensorflow](https://github.com/tensorflow) | Models and examples built with TensorFlow. | [Repo](https://github.com/Ali-hey-0/Models-Master) |
+| deep-learning-with-pytorch | [mrdbourke](https://github.com/mrdbourke) | "Learn PyTorch for Deep Learning: Zero to Mastery" course materials. | [Repo](https://github.com/Ali-hey-0/deep-learning-with-pytorch) |
+| Freqtrade | [freqtrade](https://github.com/freqtrade) | Free, open-source crypto trading bot. | [Repo](https://github.com/Ali-hey-0/Freqtrade) |
+| Bullet-Physics-SDK | [bulletphysics](https://github.com/bulletphysics) | Real-time collision detection & physics simulation SDK. | [Repo](https://github.com/Ali-hey-0/Bullet-Physics-SDK) |
+
+</details>
 
 ---
 
