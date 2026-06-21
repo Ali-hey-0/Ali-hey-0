@@ -106,7 +106,6 @@ const codePhilosophy = () => ({
 
 ## 🚀 Featured Projects
 
-> ℹ️ **How to add a new project:** copy the template row from the bottom of the relevant category table below, fill in the name, one-line description, tech badges, and whichever links apply (use `—` for whichever doesn't apply, or `🔒 Private` if the source isn't public), then paste it back in. Keep one row per project.
 
 ### 🌐 Web & Full-Stack
 
