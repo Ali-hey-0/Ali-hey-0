@@ -61,9 +61,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Ali-hey-0&theme=tokyonight&no-frame=true&row=1&column=7" width="95%" />
 
 </div>
-
-<sub><em>Note: stats cards are served by free community APIs (GitHub Stats Extended, Streak Stats, GitHub Profile Trophy) that occasionally rate-limit or pause — if a card looks blank, a refresh usually fixes it.</em></sub>
-
 ---
 
 ## ⭐ Repository Stars
