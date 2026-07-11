@@ -6,6 +6,10 @@
 
 **Full-Stack Software Engineer & AI Enthusiast** | Python · Node.js · .NET/Blazor · FastAPI · Edge AI
 
+<a href="https://github.com/Ali-hey-0">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=9333EA&center=true&vCenter=true&width=600&lines=Building+AI-powered+SaaS+%26+Edge+ML;Rust+for+high-performance+systems;Security-first+engineering+practices;Always+shipping%2C+always+learning" alt="Typing SVG" />
+</a>
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliheydari1381doc@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-heydari)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white)](https://abedini.me/fa/)
@@ -19,6 +23,16 @@
 ![Full Time](https://img.shields.io/badge/👨‍💻_Full_Time-Seeking-4169E1?style=for-the-badge&labelColor=00008B)
 ![Remote](https://img.shields.io/badge/🌍_Remote-Preferred-9370DB?style=for-the-badge&labelColor=4B0082)
 ![Mentoring](https://img.shields.io/badge/📚_Mentoring-Active-DC143C?style=for-the-badge&labelColor=8B0000)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🧭 Quick Navigation
+
+[📊 Stats](#-github-stats) · [👋 About](#-about-me) · [🛠️ Tech Stack](#️-tech-stack) · [🚀 Projects](#-featured-projects) · [🛡️ Security & CTF](#-security-research--ctf) · [📖 Learning Library](#-learning-resources--inspiration) · [🗺️ Roadmap](#️-2026-roadmap) · [🎨 Approach](#-unique-approach)
 
 </div>
 
@@ -138,7 +152,7 @@ const ali: Developer = {
 |---|---|---|---|---|
 | 📝 **Personal Blog** | Technical journey, project write-ups, and ideas. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | [Visit](https://abedini.me/fa/) | [Repo](https://github.com/Ali-hey-0/blog) |
 | 🏭 **Arka Industrial** | Industrial e-commerce platform — staging, moving to production soon. | ![Web](https://img.shields.io/badge/-Web_App-FF5722?style=flat-square) | [Staging](https://arka-industrial.com) | [Repo](https://github.com/Ali-hey-0/arka-industrial) |
-| 🌌 **Simulation** | Interactive 3D visualization of the universe across 65 orders of magnitude — quantum (10⁻³⁵) to cosmic (10⁺³���) — with real-time physics. | ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white) | [Visit](https://github.com/Ali-hey-0/Simulation) | [Repo](https://github.com/Ali-hey-0/Simulation) |
+| 🌌 **Simulation** | Interactive 3D visualization of the universe across 65 orders of magnitude — quantum (10⁻³⁵) to cosmic (10⁺³⁰) — with real-time physics. | ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white) | [Visit](https://github.com/Ali-hey-0/Simulation) | [Repo](https://github.com/Ali-hey-0/Simulation) |
 | 🏫 **EduPortal** | School management website with PHP and MySQL. | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/EduPortal) |
 
 ### 🖥️ Desktop & Mobile (.NET)
@@ -305,6 +319,14 @@ My interdisciplinary background directly shapes how I design systems:
 <br>
 
 ### 🌟 *"The best code is written with passion, refined with discipline, and shared with generosity."*
+
+<br>
+
+### 🤝 Let's Build Something Together
+
+[![Gmail](https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliheydari1381doc@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-heydari)
+[![GitHub](https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-hey-0)
 
 <br>
 
