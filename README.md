@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25&height=180&section=header&text=Ali%20Heydari&fontSize=55&fontColor=fff&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20AI%20%26%20Edge%20ML%20%7C%20Rust&descAlignY=58&descSize=18" />
+
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 
 # 👨‍💻 Ali Heydari
@@ -38,16 +40,20 @@
 
 ---
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=70&section=header&text=GitHub%20Stats&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ali-hey-0&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-hey-0&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=Ali-hey-0&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=Ali-hey-0&theme=tokyonight&hide_border=true" width="48%" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-hey-0&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ali-hey-0&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-hey-0&theme=tokyo-night&hide_border=true" width="48%" />
 
 <br>
@@ -55,6 +61,8 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Ali-hey-0&theme=tokyonight&no-frame=true&row=1&column=7" width="95%" />
 
 </div>
+
+<sub><em>Note: stats cards are served by free community APIs (GitHub Stats Extended, Streak Stats, GitHub Profile Trophy) that occasionally rate-limit or pause — if a card looks blank, a refresh usually fixes it.</em></sub>
 
 ---
 
@@ -67,6 +75,10 @@
 </div>
 
 ---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=11,20,24&height=70&section=header&text=About%20Me&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
 
 ## 👋 About Me
 
@@ -98,9 +110,19 @@ const ali: Developer = {
 
 ---
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,24,25&height=70&section=header&text=Tech%20Stack&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,js,go,rust,cs,react,nodejs,fastapi,dotnet,postgres,mongodb,docker,linux,pytorch,tensorflow&theme=dark&perline=8" />
+</a>
+
+<br><br>
 
 **Languages**
 
@@ -132,6 +154,10 @@ const ali: Developer = {
 </div>
 
 ---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24,25,6&height=70&section=header&text=Featured%20Projects&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
 
 ## 🚀 Featured Projects
 
@@ -206,16 +232,16 @@ const ali: Developer = {
 <div align="center">
 
 <a href="https://github.com/Ali-hey-0/Simulation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ali-hey-0&repo=Simulation&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Ali-hey-0&repo=Simulation&theme=tokyonight&hide_border=true" width="48%" />
 </a>
 <a href="https://github.com/Ali-hey-0/forecast-fusion">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ali-hey-0&repo=forecast-fusion&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Ali-hey-0&repo=forecast-fusion&theme=tokyonight&hide_border=true" width="48%" />
 </a>
 <a href="https://github.com/Ali-hey-0/Yolo8n_AI_doc">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ali-hey-0&repo=Yolo8n_AI_doc&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Ali-hey-0&repo=Yolo8n_AI_doc&theme=tokyonight&hide_border=true" width="48%" />
 </a>
 <a href="https://github.com/Ali-hey-0/GO-Practice">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ali-hey-0&repo=GO-Practice&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Ali-hey-0&repo=GO-Practice&theme=tokyonight&hide_border=true" width="48%" />
 </a>
 
 </div>
@@ -264,6 +290,10 @@ const ali: Developer = {
 
 ---
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,20,25&height=70&section=header&text=2026%20Roadmap&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
+
 ## 🗺️ 2026 Roadmap
 
 ```mermaid
@@ -290,6 +320,10 @@ graph TB
 ```
 
 ---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=11,24,20&height=70&section=header&text=Unique%20Approach&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
 
 ## 🎨 Unique Approach
 
