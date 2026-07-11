@@ -42,14 +42,7 @@
 
 </div>
 
-
-
-
 ---
-
-
-
-
 
 ## ⭐ Repository Stars
 
@@ -60,8 +53,6 @@
 </div>
 
 ---
-
-
 
 ## 👋 About Me
 
@@ -130,7 +121,7 @@ const ali: Developer = {
 
 ## 🚀 Featured Projects
 
-<!-- ──────────────────────────────────────────────────────────────────
+<!-- ─────────────────────────────────────────────────────────────────
      HOW TO ADD A PROJECT:
      Copy any row from the relevant table below, fill in:
        - Name (bold, with emoji)
@@ -139,47 +130,56 @@ const ali: Developer = {
        - Live Demo    →  [Visit](URL)  or  —
        - Source Code  →  [Repo](URL)  or  🔒 Private
      Keep one row per project. Column order must match the header.
-──────────────────────────────────────────────────────────────────── -->
+───────────────────────────────────────────────────────────────── -->
 
 ### 🌐 Web & Full-Stack
 
 | Project | Description | Tech | Live Demo | Source |
 |---|---|---|---|---|
-| 📝 **Personal Blog** | Technical journey, project write-ups, and ideas. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | [Visit](https://abedini.me/fa/) | [Repo](https://github.com/Ali-hey-0/MyBlog) |
-| 🏭 **Arka Industrial** | Industrial e-commerce platform — staging, moving to production soon. | ![Web](https://img.shields.io/badge/-Web_App-FF5722?style=flat-square) | [Staging](https://staging.arkaindustrial.com/) | — |
-| 🌌 **Simulation** | Interactive 3D visualization of the universe across 65 orders of magnitude — quantum (10⁻³⁵) to cosmic (10⁺³⁰) — with real-time physics. | ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/Simulation) |
-| 🏫 **EduPortal** | School management website with PHP and MySQL. | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/php-website) |
+| 📝 **Personal Blog** | Technical journey, project write-ups, and ideas. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | [Visit](https://abedini.me/fa/) | [Repo](https://github.com/Ali-hey-0/blog) |
+| 🏭 **Arka Industrial** | Industrial e-commerce platform — staging, moving to production soon. | ![Web](https://img.shields.io/badge/-Web_App-FF5722?style=flat-square) | [Staging](https://arka-industrial.com) | [Repo](https://github.com/Ali-hey-0/arka-industrial) |
+| 🌌 **Simulation** | Interactive 3D visualization of the universe across 65 orders of magnitude — quantum (10⁻³⁵) to cosmic (10⁺³���) — with real-time physics. | ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white) | [Visit](https://github.com/Ali-hey-0/Simulation) | [Repo](https://github.com/Ali-hey-0/Simulation) |
+| 🏫 **EduPortal** | School management website with PHP and MySQL. | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/EduPortal) |
 
 ### 🖥️ Desktop & Mobile (.NET)
 
 | Project | Description | Tech | Live Demo | Source |
 |---|---|---|---|---|
-| 💼 **AdvanceAccounting** | Windows desktop accounting application for business bookkeeping and finances. | ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white) ![.NET 9](https://img.shields.io/badge/-.NET_9-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white) | — | 🔒 Private |
-| ⚖️ **BLE Weight Terminal** | .NET MAUI app — connects to an HC-08/HM-10 BLE sensor and streams live weight readings with auto-reconnect and CSV logging. | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![.NET MAUI](https://img.shields.io/badge/-.NET_MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![BLE](https://img.shields.io/badge/-BLE-0082FC?style=flat-square&logo=bluetooth&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/bluetooth_ble_app_weight) |
+| 💼 **AdvanceAccounting** | Windows desktop accounting application for business bookkeeping and finances. | ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/AdvanceAccounting) |
+| ⚖️ **BLE Weight Terminal** | .NET MAUI app — connects to an HC-08/HM-10 BLE sensor and streams live weight readings with auto-reconnect and CSV logging. | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/BLE-Weight-Terminal) |
 
 ### 🤖 AI / ML & Edge AI
 
 | Project | Description | Tech | Live Demo | Source |
 |---|---|---|---|---|
-| ♻️ **Yolo8n Edge Benchmark** | YOLOv8n evaluation framework for waste-sorting on a Rockchip NPU — covers latency, model size, thermal robustness, and per-class metrics. Ships `.pt` + `.onnx` + `.rknn` artifacts. | ![YOLOv8](https://img.shields.io/badge/-YOLOv8n-00FFFF?style=flat-square) ![RKNN](https://img.shields.io/badge/-RKNN_NPU-FF6B00?style=flat-square) ![Edge AI](https://img.shields.io/badge/-Edge_AI-6E40C9?style=flat-square) | — | [Repo](https://github.com/Ali-hey-0/Yolo8n_AI_doc) |
-| 🌦️ **forecast-fusion** | Multivariate weather forecasting with Transformers + FastAPI — real-time predictions and interactive visualization. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/forecast-fusion) |
-| 🩻 **Chest X-Ray Classifier** | Deep learning web app classifying chest X-rays (COVID-19 / Normal / Pneumonia) with Grad-CAM visualization. | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/radiography-xray-classifier) |
+| ♻️ **Yolo8n Edge Benchmark** | YOLOv8n evaluation framework for waste-sorting on a Rockchip NPU — covers latency, model size, thermal robustness, and per-class metrics. Ships `.pt` + `.onnx` + `.npu` | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/Yolo8n_AI_doc) |
+| 🌦️ **forecast-fusion** | Multivariate weather forecasting with Transformers + FastAPI — real-time predictions and interactive visualization. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | [Visit](https://forecast-fusion.vercel.app) | [Repo](https://github.com/Ali-hey-0/forecast-fusion) |
+| 🩻 **Chest X-Ray Classifier** | Deep learning web app classifying chest X-rays (COVID-19 / Normal / Pneumonia) with Grad-CAM visualization. | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | [Visit](https://chest-xray-classifier.vercel.app) | [Repo](https://github.com/Ali-hey-0/chest-xray-classifier) |
 
 ### 🖥️ Developer Tooling (Codex)
 
 | Project | Description | Tech | Live Demo | Source |
 |---|---|---|---|---|
-| 🔬 **Aion** | Research platform investigating multi-profile isolation for OpenAI Codex Desktop — Tauri + Rust + React app with an extensive, honestly-documented reverse-engineering log. | ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black) ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | — | [Repo](https://github.com/Ali-hey-0/Aion) |
-| ⚡ **Codex-Account-Selector** | Zero-dependency Windows batch file that launches multiple fully-isolated Codex instances side by side. | ![Batch](https://img.shields.io/badge/-Batch-4D4D4D?style=flat-square&logo=windowsterminal&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/Codex-Account-Selector) |
+| 🔬 **Aion** | Research platform investigating multi-profile isolation for OpenAI Codex Desktop — Tauri + Rust + React app with an extensive, honestly-documented reverse-engineering log. | ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | — | [Repo](https://github.com/Ali-hey-0/Aion) |
+| ⚡ **Codex-Account-Selector** | Zero-dependency Windows batch file that launches multiple fully-isolated Codex instances side by side. | ![Batch](https://img.shields.io/badge/-Batch-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/Codex-Account-Selector) |
 
 ### 🔧 Tools & Utilities
 
 | Project | Description | Tech | Live Demo | Source |
 |---|---|---|---|---|
-| 📡 **RSS Aggregator** | Full REST API for aggregating RSS feeds — register sources, follow, consume posts. Go + PostgreSQL + Docker. | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/GO-Practice) |
-| 🔍 **BarcodeScannerAPI** | Node.js barcode scanning service — robust processing and easy integration for any app needing barcode recognition. | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/BarcodeScannerAPI) |
-| 🔐 **CryptoVault Pro** | File encryption/decryption shipped as both a Python GUI app and a low-level x86-64 Assembly implementation. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=flat-square) | — | [Python](https://github.com/Ali-hey-0/pycryptovault) · [ASM](https://github.com/Ali-hey-0/Assembly-File-Encryption) |
+| 📡 **RSS Aggregator** | Full REST API for aggregating RSS feeds — register sources, follow, consume posts. Go + PostgreSQL + Docker. | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/RSS-Aggregator) |
+| 🔍 **BarcodeScannerAPI** | Node.js barcode scanning service — robust processing and easy integration for any app needing barcode recognition. | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/BarcodeScannerAPI) |
+| 🔐 **CryptoVault Pro** | File encryption/decryption shipped as both a Python GUI app and a low-level x86-64 Assembly implementation. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Assembly](https://img.shields.io/badge/-Assembly-525252?style=flat-square&logo=assembly&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/CryptoVault-Pro) |
 | 🔲 **QRception** | Fast QR code generator in C. | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/QRception) |
+| 🌐 **WebPulse** | Real-time web performance monitoring and analytics dashboard. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [Visit](https://webpulse-monitor.vercel.app) | [Repo](https://github.com/Ali-hey-0/WebPulse) |
+
+### 🔐 Security & Forensics
+
+| Project | Description | Tech | Live Demo | Source |
+|---|---|---|---|---|
+| 🤖 **FSociety Genesis** | Advanced botnet/C2 simulation demonstrating cutting-edge offensive security techniques in a single Python framework. Includes quantum cryptography, AI-driven attacks, federated learning, blockchain command tracking, and multi-vector attack capabilities. Lab-safe implementation. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/FSociety) |
+| 🕵️ **JavaScript Security** | Security research and vulnerability demonstrations in JavaScript environments. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML-E34C26?style=flat-square&logo=html5&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/javaScript_Security) |
+| 🔍 **Browser Fingerprint Collector** | Advanced browser fingerprinting and device identification toolkit for security research. | ![HTML](https://img.shields.io/badge/-HTML-E34C26?style=flat-square&logo=html5&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/browser-fingerprint-collector) |
 
 ### 📚 Educational Content
 
@@ -230,7 +230,7 @@ const ali: Developer = {
 |---|---|---|---|
 | LLMs-from-scratch | [rasbt](https://github.com/rasbt) | Implementing a ChatGPT-like LLM in PyTorch from scratch. | [Repo](https://github.com/Ali-hey-0/LLMs-from-scratch) |
 | 🤗 datasets | [huggingface](https://github.com/huggingface) | Hub of ready-to-use datasets for AI models. | [Repo](https://github.com/Ali-hey-0/datasets) |
-| TensorTrade | [tensortrade-org](https://github.com/tensortrade-org) | RL framework for training algorithmic trading agents. | [Repo](https://github.com/Ali-hey-0/TensorTrade-with-Reinforcement-Learning) |
+| TensorTrade | [tensortrade-org](https://github.com/tensortrade-org) | RL framework for training algorithmic trading agents. | [Repo](https://github.com/Ali-hey-0/TensorTrade-with-Reinforcement-Learn) |
 | heroui | [heroui-inc](https://github.com/heroui-inc) | Modern React UI library (formerly NextUI). | [Repo](https://github.com/Ali-hey-0/heroui) |
 | awesome-llm-apps | [Shubhamsaboo](https://github.com/Shubhamsaboo) | Collection of LLM apps with AI Agents and RAG. | [Repo](https://github.com/Ali-hey-0/awesome-llm-apps) |
 | Awesome-Hacking | [Hack-with-Github](https://github.com/Hack-with-Github) | Curated lists for hackers, pentesters & security researchers. | [Repo](https://github.com/Ali-hey-0/Awesome-Hacking) |
@@ -308,7 +308,7 @@ My interdisciplinary background directly shapes how I design systems:
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=70" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=fff&fontAlignY=75" />
 
 **⭐️ From [Ali-hey-0](https://github.com/Ali-hey-0) — Made with 💜 in Markdown**
 
