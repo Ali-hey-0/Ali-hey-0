@@ -85,6 +85,7 @@ const ali: Developer = {
   focus: [
     "🧠 Engineering deterministic runtimes around non-deterministic LLMs",
     "🎙️ Audio/Speech AI — ASR, TTS, and full voice pipelines",
+    "🥽 AI image-to-3D pipelines for web AR commerce",
     "🦀 Rust for high-performance systems",
     "🔐 Security-first engineering & applied cryptography",
   ],
@@ -138,6 +139,7 @@ npx ali-hey-0  # Coming soon: CLI tool to showcase my work!
 **Frameworks & Backend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -175,6 +177,24 @@ npx ali-hey-0  # Coming soon: CLI tool to showcase my work!
        - Source Code  →  [Repo](URL)  or  🔒 Private
      Keep one row per project. Column order must match the header.
 ───────────────────────────────────────────────────────────────── -->
+
+### ⭐ Flagship: AI-Powered AR Commerce Pipeline
+
+**ARCore** — *Photo-to-AR, in one pipeline.*
+
+An end-to-end system that turns product photos (or a short video) into scale-accurate, AR-ready 3D assets — a customer scans a QR code and sees the *actual-size* piece of furniture in their own room, no app install required.
+
+- 🎯 **Multi-provider 3D generation with automatic failover** — Tripo3D → Meshy → Hugging Face → local fallback, with every fallback transparently flagged in the output manifest rather than silently faked
+- 📐 **Metric-accurate scale calibration** — operator-supplied dimensions are baked directly into the glTF scene graph with automated QA (±5% tolerance), so a 220 cm sofa renders as an actual 220 cm sofa
+- 🎨 **Live material & color customization**, re-baked into a fresh GLB/USDZ before every AR hand-off
+- 📱 **Cross-platform AR delivery** — WebXR/Scene Viewer on Android, Quick Look/USDZ on iOS, 360° fallback on incompatible devices
+- ⚙️ **Async job pipeline** — FastAPI background jobs with poll-based status, so uploads never block on slow upstream AI providers
+
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Blender](https://img.shields.io/badge/-Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
+
+**Engineering rigor:** 150+ backend tests and 50+ frontend tests passing in CI, strict TypeScript compilation, containerized deployment.
+
+> 🔒 Private client engagement — repository not public.
 
 ### 🌐 Web & Full-Stack
 
@@ -296,6 +316,7 @@ graph TB
     B --> B1[🤖 Agentic AI Runtime]
     B --> B2[🎙️ Audio / Speech ML]
     B --> B3[📊 Data Analytics]
+    B --> B4[🥽 AI Image-to-3D / AR Pipelines]
 
     C --> C1[⚛️ React Apps]
     C --> C2[🚀 Next.js Sites]
@@ -460,6 +481,7 @@ My interdisciplinary background directly shapes how I design systems:
 ![API](https://img.shields.io/badge/⚡_Production_API-Shipped-success?style=flat-square)
 ![Desktop](https://img.shields.io/badge/🖥️_Desktop_App-.NET_9-success?style=flat-square)
 ![EdgeAI](https://img.shields.io/badge/🤖_Edge_AI_Model-Deployed-success?style=flat-square)
+![ARCommerce](https://img.shields.io/badge/🥽_AI_Image--to--AR_Pipeline-Delivered-success?style=flat-square)
 ![RuntimeLab](https://img.shields.io/badge/🧠_AI_Runtime_Lab-14%2F17_Phases-success?style=flat-square)
 ![Ecommerce](https://img.shields.io/badge/🏭_Industrial_Ecommerce-Staging-yellow?style=flat-square)
 
@@ -489,3 +511,4 @@ My interdisciplinary background directly shapes how I design systems:
 <img src="https://komarev.com/ghpvc/?username=Ali-hey-0&label=Profile%20Views&color=9333EA&style=flat-square" />
 
 </div>
+
