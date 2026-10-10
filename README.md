@@ -506,6 +506,13 @@ My interdisciplinary background directly shapes how I design systems:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=fff&fontAlignY=75" />
 
+
+<a href="https://sa.my"><img src="https://raw.githubusercontent.com/samyk/samyk/main/.../c.svg" width="100%" height="100%"></a>
+
+
+
+
+
 **⭐️ From [Ali-hey-0](https://github.com/Ali-hey-0) — Made with 💜 in Markdown**
 
 <img src="https://komarev.com/ghpvc/?username=Ali-hey-0&label=Profile%20Views&color=9333EA&style=flat-square" />
