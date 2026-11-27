@@ -503,6 +503,7 @@ My interdisciplinary background directly shapes how I design systems:
 
 [![Gmail](https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliheydari1381doc@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-hey-0)
+[![Discord](https://img.shields.io/badge/Discord-ali__heyda-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1575820333913477164)
 
 <br>
 
